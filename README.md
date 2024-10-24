@@ -1,5 +1,5 @@
 # BTEC-560-Spring2025
-Learning Objectives [# BTEC-560-Spring2024 4 credits Fundamentals of Bioinformatics](https://pawar1550.wixsite.com/claflin-courses/copy-of-btec560-spring-2024-4-credit).
+Learning Objectives [# BTEC-560-Spring2025 4 credits Fundamentals of Bioinformatics](https://pawar1550.wixsite.com/claflin-courses/copy-of-btec560-spring-2024-4-credit).
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types, distribution properties, discrete & continuous types, R functions, ANOVA, T-test, correlation, chi-Square, regression, etc.).
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 [R: ggpubr, tidyverse, datarium, dplyr].
