@@ -5,6 +5,7 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 [R: ggpubr, tidyverse, datarium, dplyr]. Date created/updated: December, 9, 2024.
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
+![download](https://github.com/user-attachments/assets/70584da6-42a8-4574-9fcb-fe7db0f3d4af)
 
 [T Test:](https://youtu.be/sIpMsN90Dt8)
 
