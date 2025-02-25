@@ -6,7 +6,7 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
 ![download](https://github.com/user-attachments/assets/70584da6-42a8-4574-9fcb-fe7db0f3d4af)
-
+^^Claflin University, School of Natural Sciences and Mathematics, Department of Computer Science and Biology, Orangeburg, South Carolina, United States of America (USA). 
 [T Test:](https://youtu.be/sIpMsN90Dt8)
 
 [Anova:](https://youtu.be/Z-S4CfsRHA0)
