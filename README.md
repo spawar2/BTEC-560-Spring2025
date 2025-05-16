@@ -8,7 +8,9 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 ![download](https://github.com/user-attachments/assets/70584da6-42a8-4574-9fcb-fe7db0f3d4af)
 ^^Claflin University, School of Natural Sciences and Mathematics, Department of Computer Science and Biology, Orangeburg, South Carolina, United States of America (USA). 
 [T Test:](https://youtu.be/sIpMsN90Dt8)
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Anova:](https://youtu.be/Z-S4CfsRHA0)
 
 [Correlation:](https://youtu.be/yndToTyudUQ)
