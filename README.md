@@ -2,7 +2,7 @@
 Learning Objectives [# BTEC-560-Spring2025 4 credits, Fundamentals of Bioinformatics/Introduction to Probability and Statistics](https://pawar1550.wixsite.com/claflin-courses/copy-of-btec560-spring-2024-4-credit).
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types (qualitative, quantitative), distribution properties, discrete & continuous types, R functions, ANOVA, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA), data wrangling, Post Hoc Test.
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV) Data wrangling and handling.
-[R: ggpubr, tidyverse, datarium, dplyr]. Date created/updated: December, 9, 2024.
+[R: ggpubr, tidyverse, datarium, dplyr]. Date created/updated: December, 9, 2024. Data Visualization (BoxPlots, Scatter Plots).
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
 ![download](https://github.com/user-attachments/assets/70584da6-42a8-4574-9fcb-fe7db0f3d4af)
