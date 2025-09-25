@@ -26,4 +26,4 @@ Feb-8.R: Correlation test analysis and scatter plotting. Plot Manupulations.
 Jan-25.Rd: T-test analysis and line plot.
 Mar-21.R: Descriptive statistics (Mean, Mode, Median, Standard Deviation, Variance) variable R functions.
 Mar-26.R: Probability distribution functions.
-selected function(mlv, library, lm, abline, pie, readRDS, rbind, grep, heatmap, is.data.frame, is.numeric, is.matrix, is.na, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot).
+selected function(mlv, library, lm, abline, glimpse(df), pie, readRDS, rbind, grep, heatmap, is.data.frame, is.numeric, is.matrix, is.na, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot).
